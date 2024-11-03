@@ -5,3 +5,5 @@ From branch2
 from main
 
 From branch3
+
+Add something from feature2
